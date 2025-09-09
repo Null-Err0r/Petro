@@ -1,5 +1,11 @@
 # Petro - ابزار اسکن و تحلیل شبکه
-
+<div align="center">
+  <br><br>
+  <a href="https://t.me/NullError_ir" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram" alt="Telegram" />
+  </a>
+</div>
+<br>
  یک اسکریپت پایتون است که برای اسکن و تحلیل شبکه محلی شما طراحی شده است. این ابزار به شما کمک می‌کند تا دستگاه‌های متصل به شبکه خود را کشف کرده و اطلاعات امنیتی حیاتی را در مورد آنها به دست آورید.
 
 ## قابلیت‌ها
